@@ -1,0 +1,7 @@
+{
+  "name": "purescript-payload-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Peter Murphy <pete@simspace.com>",
+  "license": "MIT"
+}
